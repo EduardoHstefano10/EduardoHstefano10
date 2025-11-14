@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+AM+Eduardo+Hernandez;Backend+Developer+(Python+%2F+Java+%2F+Node.js)+;Network+%26+Security+Engineer+(pfSense)+;Data+Center+%26+Data+Analyst+;Clean+Code+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0009F7&width=435&lines=Eduardo+Hernandez++Backend+Developer+;(Python+%2F+Java+%2F+Node.js);Network+%26+Security+Engineer(pfSense);Data+Center+%26+Data+Analyst;Clean+Code+Architect)](https://git.io/typing-svg)
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
 
