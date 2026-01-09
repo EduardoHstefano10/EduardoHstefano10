@@ -28,5 +28,5 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anllacarpro&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoHstefano10&theme=github_dark) 
 ![](https://komarev.com/ghpvc/?username=JCSIVO)
